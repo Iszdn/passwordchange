@@ -1,0 +1,35 @@
+/* body{
+    display: flex;
+}
+div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+img{
+ width: 100%;
+} */
+body{
+    background: #ff6e7f;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #bfe9ff, #ff6e7f);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #bfe9ff, #ff6e7f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+input{
+    background: transparent;
+    margin: 10px;
+    border: 1px solid pink;
+   border-radius: 6px;
+   color: white;
+}
+label{
+    color: white;
+}
+#submit{
+   background-color: pink;
+color: white;
+
+}
+.ull{
+    list-style: none;
+}
